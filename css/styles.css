@@ -1,0 +1,50 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif; 
+}
+
+.profilepic {
+    padding-top: 10px;
+    height: 220px;
+    width: 200px;
+    border-radius: 60%;
+}
+
+.skillpic, .gamepic {
+    height: 220px;
+    width: 200px;
+} 
+
+.pro {
+    text-decoration: underline;
+}
+
+h1 {
+    margin-top: 0;
+    font-family: 'Sacramento', cursive;
+}
+
+h2, h3 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+.topcontainer {
+    background-color: #0081C9;
+    position: relative;
+    padding-top: 100px;
+}
+
+
+.topcloud {
+    position: absolute;
+    right: 500px;
+    top: 50px;
+}
+
+.bottomcloud {
+    position: absolute;
+    left: 500px;
+    bottom: 300px;
+
+}
